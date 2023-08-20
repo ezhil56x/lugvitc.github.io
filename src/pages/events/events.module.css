@@ -1,9 +1,16 @@
 .event strong {
-    font-style: italic;
-    font-weight: bold;
-    color: var(--nord13);
+  font-style: italic;
+  font-weight: bold;
+  color: var(--nord13);
 }
 
 .name {
-    color: var(--nord12);
+  color: var(--nord12);
+}
+
+details {
+  margin: 0.5rem 0;
+  background-color: #353b4a;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
 }
